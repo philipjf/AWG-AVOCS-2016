@@ -1,0 +1,6 @@
+-R . Awg
+-R ../src TLA
+Basic.v
+Command.v
+Memory.v
+
